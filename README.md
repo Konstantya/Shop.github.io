@@ -1,1 +1,1 @@
-# Shop.github.io
+# shop.github.io
