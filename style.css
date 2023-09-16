@@ -1,0 +1,6 @@
+body{background: linear-gradient(333deg, #280F54 19%, rgba(101, 52, 136, 0.73) 100%, rgba(22, 8, 72, 0) 100%, rgba(22, 8, 72, 0) 100%); color: antiquewhite;}
+.sidebar{color: antiquewhite;
+background: linear-gradient(270deg, #280F54 19%, rgba(101, 52, 136, 0.73) 100%, rgba(22, 8, 72, 0) 100%, rgba(22, 8, 72, 0) 100%);}
+a{color: aquamarine;}
+img{height:250px;}
+.card{background: linear-gradient(270deg, #280F54 19%, rgba(101, 52, 136, 0.73) 100%, rgba(22, 8, 72, 0) 100%, rgba(22, 8, 72, 0) 100%); color: antiquewhite;}
